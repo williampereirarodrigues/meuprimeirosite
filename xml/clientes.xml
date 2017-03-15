@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes" ?> 
+ <Clientes>
+      <Codigo></Codigo> 
+      <Nome></Nome> 
+      <Endereco></Endereco> 
+      <Cidade></Cidade> 
+      <Cep></Cep> 
+     <Telefone></Telefone> 
+     <Email></Email> 
+  </Clientes>
